@@ -6,7 +6,7 @@ This document outlines the backend architecture, key features, and technical req
 
 ## Architecture Diagram
 
-![Backend Architecture Diagram](./features-and-functionalities/features-and-functionalities.png)
+![Backend Architecture Diagram](./features-and-functionalities.png)
 
 ---
 
